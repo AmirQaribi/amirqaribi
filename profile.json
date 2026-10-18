@@ -1,7 +1,27 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "Amir Qaribi",
-  "alternateName": "AmirReza Qaribi",
+  "canonicalName": "Amir Qaribi",
+  "fullName": "AmirReza Qaribi",
+  "persianName": "امیر غریبی",
+  "alternateNames": [
+    "امیر غریبی",
+    "امیررضا غریبی",
+    "امیر قریبی",
+    "AmirReza Qaribi",
+    "amir gharibi",
+    "amirreza gharibi"
+  ],
+  "nameNotes": {
+    "preferredEnglish": "Amir Qaribi",
+    "preferredPersian": "امیر غریبی",
+    "fullEnglish": "AmirReza Qaribi",
+    "otherSearchVariants": [
+      "امیررضا غریبی",
+      "امیر قریبی",
+      "amir gharibi",
+      "amirreza gharibi"
+    ]
+  },
   "username": "AmirQaribi",
   "headline": "Enterprise Software Engineer — Business Systems, Data, Integration, .NET, SQL Server & Microsoft Technologies",
   "url": "https://amirqaribi.ir/",
