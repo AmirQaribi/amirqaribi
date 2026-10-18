@@ -125,7 +125,6 @@ I'm interested in **enterprise software development, .NET architecture, data-int
 - **Curriculum vitae:** [Download CV (PDF)](https://amirqaribi.ir/AmirQaribi-CV.pdf)
 - **Email:** [amirqaribi@outlook.com](mailto:amirqaribi@outlook.com)
 - **Telegram:** [@AmirQaribi](https://t.me/AmirQaribi)
-- **Instagram:** [@_amirqaribi](https://instagram.com/_amirqaribi)
 
 ## Beyond the Code
 
