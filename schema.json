@@ -4,13 +4,17 @@
   "@id": "https://amirqaribi.ir/#person",
   "name": "Amir Qaribi",
   "alternateName": [
+    "امیر غریبی",
     "AmirReza Qaribi",
-    "امیر غریبی"
+    "امیررضا غریبی",
+    "امیر قریبی",
+    "amir gharibi",
+    "amirreza gharibi"
   ],
   "url": "https://amirqaribi.ir/",
   "image": "https://github.com/AmirQaribi.png",
   "jobTitle": "Enterprise Software Engineer",
-  "description": "Enterprise software engineer focused on .NET backend development, business systems, enterprise data, systems integration, Microsoft business platforms, and practical AI applications.",
+  "description": "Amir Qaribi, also known by the full name AmirReza Qaribi and Persian name امیر غریبی, is an enterprise software engineer focused on .NET backend development, business systems, enterprise data, systems integration, Microsoft business platforms, and practical AI applications.",
   "email": "mailto:amirqaribi@outlook.com",
   "sameAs": [
     "https://github.com/AmirQaribi",
