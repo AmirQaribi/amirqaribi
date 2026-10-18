@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://amirqaribi.ir/#person",
+  "name": "Amir Qaribi",
+  "alternateName": [
+    "AmirReza Qaribi",
+    "امیر غریبی"
+  ],
+  "url": "https://amirqaribi.ir/",
+  "image": "https://github.com/AmirQaribi.png",
+  "jobTitle": "Enterprise Software Engineer",
+  "description": "Enterprise software engineer focused on .NET backend development, business systems, enterprise data, systems integration, Microsoft business platforms, and practical AI applications.",
+  "email": "mailto:amirqaribi@outlook.com",
+  "sameAs": [
+    "https://github.com/AmirQaribi",
+    "https://www.linkedin.com/in/amirqaribi/",
+    "https://t.me/AmirQaribi"
+  ],
+  "knowsAbout": [
+    "C#",
+    ".NET",
+    "ASP.NET Core",
+    "SQL Server",
+    "Entity Framework Core",
+    "Elasticsearch",
+    "Enterprise Software Architecture",
+    "Systems Integration",
+    "Microsoft Dynamics 365",
+    "Microsoft Power Platform",
+    "Microsoft 365",
+    "Azure",
+    "Document Management Systems",
+    "AI-enabled Enterprise Applications"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "NikAmooz"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Technical and Vocational University",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tehran",
+      "addressCountry": "IR"
+    }
+  }
+}
