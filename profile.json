@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Amir Qaribi",
+  "alternateName": "AmirReza Qaribi",
+  "username": "AmirQaribi",
+  "headline": "Enterprise Software Engineer — Business Systems, Data, Integration, .NET, SQL Server & Microsoft Technologies",
+  "url": "https://amirqaribi.ir/",
+  "image": "https://github.com/AmirQaribi.png",
+  "email": "amirqaribi@outlook.com",
+  "location": {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "languages": [
+    {
+      "name": "Persian",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Professional working proficiency"
+    },
+    {
+      "name": "Dutch",
+      "level": "Elementary"
+    }
+  ],
+  "profiles": {
+    "github": "https://github.com/AmirQaribi",
+    "linkedin": "https://www.linkedin.com/in/amirqaribi/",
+    "telegram": "https://t.me/AmirQaribi"
+  },
+  "expertise": [
+    "C#",
+    ".NET",
+    "ASP.NET Core",
+    "SQL Server",
+    "Entity Framework Core",
+    "Elasticsearch",
+    "Enterprise Software Architecture",
+    "Systems Integration",
+    "Microsoft Dynamics 365",
+    "Power Platform",
+    "Microsoft 365",
+    "Azure",
+    "AI-enabled enterprise applications"
+  ],
+  "education": {
+    "institution": "Technical and Vocational University",
+    "degree": "Associate degree",
+    "field": "Computer Software Engineering",
+    "startYear": 2019,
+    "endYear": 2021
+  },
+  "sourceOfTruth": "https://amirqaribi.ir/"
+}
